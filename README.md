@@ -1,23 +1,11 @@
 ![ecb-sim](https://github.com/EC-SIM/EC-SIM/blob/main/Modellierung3.jpg)
-# Centre for Solar Energy and Hydrogen Research Baden-Württemberg (ZSW) - Research Department ECB
+# Centre for Solar Energy and Hydrogen Research Baden-Württemberg (ZSW)
 
 The ZSW is a non-profit research institute in the legal form of a foundation under civil law. It is based in Stuttgart and in Ulm and was founded on the 16th of March, 1988. The foundation's purpose is to transfer already existing knowledge from fundamental research in the fields of renewable energy and rational energy conversion to market-ready, application-based technology to be used by industries located in the state.
 
 ## A Leading Energy Research Institute in Europe
 
-ZSW is one of the leading European research institutes for renewable energy sources and energy storage technologies. In the internal organisational structure, the focus is placed on the two business divisions "Photovoltaics" or "Electrochemical Energy Technologies" and "Energy Policy and Energy Carriers". The head of each division is a member of the board. These business divisions are organised into ten departments.
-
-- Systems Analysis (SYS)
-- Photovoltaics: Materials Research (MAT)
-- Photovoltaics: Modules Systems Applications (MSA)
-- Renewable Fuels and Processes (REG)
-- Fuel Cell Fundamentals (ECG)
-- Fuel Cell Stacks (ECB)
-- Fuel Cell Systems (ECS)
-- Accumulators Materials Research (ECM)
-- Production Research (ECP)
-- Accumulators (ECA)
-
+The Centre for Solar Energy and Hydrogen Research Baden-Württemberg (ZSW) is one of the leading institutes for applied research into the major issues relating to the energy transition which include photovoltaics, wind energy, battery technology, fuel cells, electrolysis, e-fuels, circular economy, policy advice, and the use of AI for process and system optimisation. We work in tandem with industry to pave the way to market for new technologies. 
 
 ## Research Department Fuel Cell Stacks (ECB)
 
