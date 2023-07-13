@@ -1,7 +1,7 @@
 ![ecb-sim](https://github.com/EC-SIM/EC-SIM/blob/main/Modellierung3.jpg)
 # Centre for Solar Energy and Hydrogen Research Baden-Württemberg (ZSW)
 
-The ZSW is a non-profit research institute in the legal form of a foundation under civil law. It is based in Stuttgart and in Ulm and was founded on the 16th of March, 1988. The foundation's purpose is to transfer already existing knowledge from fundamental research in the fields of renewable energy and rational energy conversion to market-ready, application-based technology to be used by industries located in the state.
+The Zentrum für Sonnenenergie- und Wasserstoff- Forschung Baden-Württemberg / Center for Solar Energy and Hydrogen Research (ZSW) was founded in 1988 as a non-profit foundation of the state of Baden- Württemberg. Today, with a turnover of around 50 million euros and around 350 employees and around 100 students at its locations in Stuttgart and Ulm, it is one of Germany’s leading institutes for renewable energy application research. 
 
 ## A Leading Energy Research Institute in Europe
 
