@@ -13,7 +13,7 @@ The scientists at ZSW perform both: design engineering and electrochemical model
 
 ### CFD Modelling and Simulation
 
-Computational fluid dynamics (CFD) enables us to rapidly optimise component structures and operating conditions. This also includes the development and establishment of completely new approaches using advanced simulation software that is verified by using conclusive hardware and experiments under realistic conditions. For example, the water management within the gas diffusion electrodes (GDL) and gas distribution structures is validated using μ-CT scanning. Using this system, GDL structures, including their water content, can also be investigated in a compressed state. In addition, neutron and synchrotron radiography and tomography techniques developed with the Helmholtz Centre Berlin (HZB) are available for visualising components, cells and stacks, whereby the temporal and spatial resolutions of these are among the best in the world. 
+Computational fluid dynamics (CFD) enables us to rapidly optimise component structures and operating conditions. This also includes the development and establishment of completely new approaches using advanced simulation software that is verified by using conclusive hardware and experiments under realistic conditions. Using this system, GDL structures, including their water content, can also be investigated in a compressed state. In addition, neutron and synchrotron radiography and tomography techniques developed with the Helmholtz Centre Berlin (HZB) are available for visualising components, cells and stacks, whereby the temporal and spatial resolutions of these are among the best in the world. 
 
 Overview of our topics:
 
