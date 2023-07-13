@@ -21,7 +21,7 @@ The scientists at ZSW perform both: design engineering and electrochemical model
 - MATLAB Simulink
 - IPSEpro 
 
-### CFD Activities
+# CFD Activities
 
 Computational fluid dynamics (CFD) enables us to rapidly optimise component structures and operating conditions. This also includes the development and establishment of completely new approaches using advanced simulation software that is verified by using conclusive hardware and experiments under realistic conditions.
 
