@@ -5,9 +5,9 @@ The Zentrum für Sonnenenergie- und Wasserstoff- Forschung Baden-Württemberg / 
 
 ZSW´s major issues relate to the energy transition which include photovoltaics, wind energy, battery technology, fuel cells, electrolysis, e-fuels, circular economy, policy advice, and the use of AI for process and system optimisation. We work in tandem with industry to pave the way to market for new technologies. 
 
-## Research Department Fuel Cell Stacks (ECB)
+## Research on Fuel Cell Stacks 
 
-The research department fuel cell stacks is specialised in the development of polymer electrolyte membrane fuel cell (PEMFC) technology with the focus on the construction, characterisation and simulation of fuel cells stacks and components and the construction of prototypes, as well as the development of production and test technologies.
+The research department fuel cell stacks (ECB) is specialised in the development of polymer electrolyte membrane fuel cell (PEMFC) technology with the focus on the construction, characterisation and simulation of fuel cells stacks and components and the construction of prototypes, as well as the development of production and test technologies.
 
 Modelling and simulating processes in fuel cells enables us to rapidly optimise component structures and operating conditions. This also includes the development and establishment of completely new approaches using advanced simulation software that is verified by using conclusive hardware and experiments under realistic conditions. For example, the water management within the gas diffusion electrodes (GDL) and gas distribution structures is validated using μ-CT scanning. Using this system, GDL structures, including their water content, can also be investigated in a compressed state. In addition, neutron and synchrotron radiography and tomography techniques developed with the Helmholtz Centre Berlin (HZB) are available for visualising components, cells and stacks, whereby the temporal and spatial resolutions of these are among the best in the world. 
 
