@@ -11,7 +11,7 @@ The research department fuel cell stacks (ECB) is specialised in the development
 
 The scientists at ZSW perform both: design engineering and electrochemical modelling of fuel cell components, stacks and systems with commercial and in-house simulation methods. Crucial verifications of simulation results are carried out by means of experiments under realistic conditions using hardware that provides important information. The investigations available range from microscopic processes such as water distribution in gas diffusion systems (including MPL) and catalyst layers (Monte Carlo modelling (MC)) and macroscopic processes (CFD and FEM simulations) through to the design of complete systems (IPSE-Pro, Matlab-Simulink).
 
-### Facilities (Hard and Software):
+### Hard and Software Infrastructure:
 
 - Professional workstations (8-24 Cores Intel Xeon, up to 128 GB main memory) and rack-based computer-cluster (> 170 cores, total over 1.6 TB main memory)
 - ANSYS® FLUENT, including "User Defined Functions" and "Fuel Cell Modules"
