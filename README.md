@@ -13,7 +13,7 @@ The scientists at ZSW perform both: design engineering and electrochemical model
 
 ### Overview Hardware and Software
 
-- Professional workstations (8-24 Cores Intel Xeon, up to 128 GB main memory) and rack-based computer-cluster (> 170 cores, total over 1.6 TB main memory)
+- Professional workstations (8-24 Cores Intel Xeon, up to 128 GB main memory) and rack-based computer-cluster (> 400 cores, total over 3.7 TB main memory)
 - ANSYS® FLUENT, including "User Defined Functions" and "Fuel Cell Modules"
 - AVL FIRE™
 - OpenFOAM
